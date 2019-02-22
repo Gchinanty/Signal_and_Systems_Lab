@@ -1,7 +1,7 @@
-# Signal_and_Systems_Lab
+# Signals and Systems Lab
 Several experiments about signal and systems I did in WHU.
 
-## dsp_Audio_signal_spectrum_analysis & dsp_Face_detection
+## dsp Audio signal spectrum analysis & dsp Face detection
 These are two verification demos when I learn to develop DSP chip which named TMS32C6748.
 
 ## Other Labs
